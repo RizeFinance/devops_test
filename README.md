@@ -1,4 +1,4 @@
-*    We want to serve these services from a single server on port 1212 (sinatra) and 206 (webrick)
+*    We want to serve these services from a single server on port 1212 (sinatra) and 206 (webrick). The sinatra service should run on the puma web server, not the default webrick.
 
 *    (Extra credit) on Tuesday & Thursday we want to serve webrick on port 1212 and sinatra on port 206
 
