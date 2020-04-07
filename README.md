@@ -12,8 +12,9 @@ Please clone the repo and configure the environment as described. DO NOT submit 
 
 *    One or more configuration files for the chosen containerization tool
 *    An Ansible/Puppet/Saltstack/Chef/etc. script which provisions any needed resources on the target deployment server
+* Any other configuration files required
 *    A text document which contains:
-* *    A description of each step of the CI/CD pipeline you would implement to ensure high availability
-* *    Which EC2 instance type would be most appropriate for this deployment and why?
-* *    List inbound rules you would add to the security group
-* *    Explain why you chose this containerization tool. Compare and contrast it with at least one other containerization tool
+  *    A description of each step of the CI/CD pipeline you would implement to ensure high availability
+  *    Which EC2 instance type would be most appropriate for this deployment and why?
+  *    List inbound rules you would add to the security group
+  *    Explain why you chose this containerization tool. Compare and contrast it with at least one other containerization tool
