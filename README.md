@@ -1,4 +1,4 @@
-There is a small sample project repo with 2 services we'd like you you to deploy here: https://github.com/RizeFinance/devops_test You can use any free or open source tools necessary to develop your solution, but the deployment environment must meet the following requirements:
+There is a small sample project repo with 2 services we'd like you to deploy here: https://github.com/RizeFinance/devops_test You can use any free or open source tools necessary to develop your solution, but the deployment environment must meet the following requirements:
 
 *    We want to serve these services from a single server on port 1212 (sinatra) and 206 (webrick). The sinatra service should run on the puma web server, not the default webrick.
 
